@@ -13,7 +13,7 @@ import NewsItemType from '../types/NewsItemType';
 
 // React.js News Feed (RSS)
 const url = 'http://ajax.googleapis.com/ajax/services/feed/load' +
-            '?v=1.0&num=10&q=https://reactjsnews.com/feed.xml';
+            '?v=1.0&num=10&q=http://dantri.com.vn/trangchu.rss';
 
 let items = [];
 let lastFetchTask;
